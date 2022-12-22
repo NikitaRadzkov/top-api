@@ -1,3 +1,4 @@
-export const ALREADY_REGISTERED_ERROR = 'This user already register';
-export const USER_NOT_FOUND = 'User not found';
-export const WRONG_PASSWORD_ERROR = 'Incorrect password';
+export const ALREADY_REGISTERED_ERROR =
+  'Такой пользователь уже был зарегистрирован';
+export const USER_NOT_FOUND_ERROR = 'Пользователь с таким email не найден';
+export const WRONG_PASSWORD_ERROR = 'Неверный пароль';

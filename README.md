@@ -1,1 +1,1 @@
-# Demo nest course NestJS
+# Demo api for NestJS
